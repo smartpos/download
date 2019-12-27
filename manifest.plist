@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://home.yfpo.com:9107/download/icon58.png</string>
+					<string>https://static.vitters.cn/icon58.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://home.yfpo.com:9107/download/icon1024.png</string>
+					<string>https://static.vitters.cn/icon120.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
